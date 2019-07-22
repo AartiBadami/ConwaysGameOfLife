@@ -14,6 +14,7 @@ The Game of Life is a cellular automaton created by John Conway. It is an exampl
 
 
 SEMANTICS:
+
 a. Life is played on an infinite, two-dimensional grid of square cells. Each cell has eight neighbors,
 which are the cells that share a side or a corner with it.
 
