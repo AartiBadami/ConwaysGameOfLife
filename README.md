@@ -33,4 +33,4 @@ The second part of the input in the command line, which describes the number of 
 ("3" can be replaced with any number and board.txt with the name of the txt file containing the initial board)
 
 OUTPUT FORMAT:
-The output is another board displaying the 
+The output is a board displaying the final state, based on the number of iterations specified by the user in the input.
