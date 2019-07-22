@@ -1,6 +1,14 @@
 # ConwaysGameOfLife
 This project simulates Conway's Game of Life
 
+
+This repository contains the following:
+
+life.c : main src file and executes the core functionality of this project
+
+Makefile : compiles life.c (to use, type the following command in the command line: "make life")
+
+
 BACKGROUND:
 The Game of Life is a cellular automaton created by John Conway. It is an example of a zero-player game, where each step is completely determined by the current state of the board.  The idea is that populations require a certain size in order to thrive, and can expand if they are large enough, but cannot become so dense that they overtax their local resources.  An infinite grid is impractical to simulate, so we will use a grid that wraps around, so that the top row and bottom row are neighbors, as are the left and right sides.
 
